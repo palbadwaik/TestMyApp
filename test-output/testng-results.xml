@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15" started-at="2017-06-19T16:02:32Z" finished-at="2017-06-19T16:02:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15" started-at="2017-06-19T16:02:32Z" finished-at="2017-06-19T16:02:32Z">
+      <class name="TestA">
+        <test-method status="PASS" signature="beforeSuiteTestA()[pri:0, instance:TestA@1b1a986]" name="beforeSuiteTestA" is-config="true" duration-ms="16" started-at="2017-06-19T21:32:32Z" finished-at="2017-06-19T21:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteTestA -->
+        <test-method status="PASS" signature="beforeTestA()[pri:0, instance:TestA@1b1a986]" name="beforeTestA" is-config="true" duration-ms="0" started-at="2017-06-19T21:32:32Z" finished-at="2017-06-19T21:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestA -->
+        <test-method status="PASS" signature="beforeClassTestA()[pri:0, instance:TestA@1b1a986]" name="beforeClassTestA" is-config="true" duration-ms="0" started-at="2017-06-19T21:32:32Z" finished-at="2017-06-19T21:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassTestA -->
+        <test-method status="PASS" signature="testA()[pri:0, instance:TestA@1b1a986]" name="testA" duration-ms="0" started-at="2017-06-19T21:32:32Z" finished-at="2017-06-19T21:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method status="PASS" signature="afterTestA()[pri:0, instance:TestA@1b1a986]" name="afterTestA" is-config="true" duration-ms="0" started-at="2017-06-19T21:32:32Z" finished-at="2017-06-19T21:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestA -->
+        <test-method status="PASS" signature="beforeTestAMethod()[pri:0, instance:TestA@1b1a986]" name="beforeTestAMethod" is-config="true" duration-ms="0" started-at="2017-06-19T21:32:32Z" finished-at="2017-06-19T21:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestAMethod -->
+        <test-method status="PASS" signature="afterTestAMethod()[pri:0, instance:TestA@1b1a986]" name="afterTestAMethod" is-config="true" duration-ms="0" started-at="2017-06-19T21:32:32Z" finished-at="2017-06-19T21:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestAMethod -->
+        <test-method status="PASS" signature="afterClassTestA()[pri:0, instance:TestA@1b1a986]" name="afterClassTestA" is-config="true" duration-ms="0" started-at="2017-06-19T21:32:32Z" finished-at="2017-06-19T21:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassTestA -->
+        <test-method status="PASS" signature="afterSuiteTestA()[pri:0, instance:TestA@1b1a986]" name="afterSuiteTestA" is-config="true" duration-ms="0" started-at="2017-06-19T21:32:32Z" finished-at="2017-06-19T21:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteTestA -->
+      </class> <!-- TestA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

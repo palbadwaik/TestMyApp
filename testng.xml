@@ -1,0 +1,14 @@
+<suite name="SuiteName" parallel="tests">
+	<test name="Test A" allow-return-values="true">
+		<classes>
+			<class name="TestA" />
+		</classes>
+	</test>
+	
+	<!-- <test name="Test B" allow-return-values="true">
+		<classes>
+			<class name="com.CORE.DDFW.testcases.DummyTestB" />
+		</classes>
+	</test> -->
+</suite>
+
